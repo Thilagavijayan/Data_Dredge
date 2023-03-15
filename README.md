@@ -1,4 +1,4 @@
-# About Fake News Detection Project
+# About Data Dredge
 
 This project is available for open source contribution
 
