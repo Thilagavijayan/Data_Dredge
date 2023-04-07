@@ -67,7 +67,7 @@ python app.py
 
 ![True](https://user-images.githubusercontent.com/106983063/230631464-e49b139e-1fa7-4fed-81c9-fa33719fe654.jpeg)
 
-![False](https://user-images.githubusercontent.com/106983063/230631625-b7e41a11-139f-425c-83db-af1d173d5207.jpeg)
-
+<!-- ![False](https://user-images.githubusercontent.com/106983063/230631625-b7e41a11-139f-425c-83db-af1d173d5207.jpeg)
+ -->
 
 
