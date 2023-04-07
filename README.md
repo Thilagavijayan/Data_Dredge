@@ -63,5 +63,11 @@ python app.py
 ```
 
 ## Screenshots
+![Home page](https://user-images.githubusercontent.com/106983063/230631577-b307b4e2-a8dd-4c6c-935d-3974675418d1.jpeg)
+
+![True](https://user-images.githubusercontent.com/106983063/230631464-e49b139e-1fa7-4fed-81c9-fa33719fe654.jpeg)
+
+![False](https://user-images.githubusercontent.com/106983063/230631625-b7e41a11-139f-425c-83db-af1d173d5207.jpeg)
+
 
 
