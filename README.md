@@ -69,5 +69,10 @@ python app.py
 
 <!-- ![False](https://user-images.githubusercontent.com/106983063/230631625-b7e41a11-139f-425c-83db-af1d173d5207.jpeg)
  -->
+## Live Demo
+[Click Here](https://youtu.be/OryQ5-EQNIs)
+
+## Presentation
+[Click Here](https://www.canva.com/design/DAFKZN_xoHg/TuhJ3XlNJsTpdlgESiGHvw/edit?analyticsCorrelationId=20d5c9b9-a09c-4fc2-a9cc-203f70031231)
 
 
