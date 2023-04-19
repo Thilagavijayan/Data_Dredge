@@ -21,6 +21,8 @@
 [Overview](https://github.com/Thilagavijayan/Data_Dredge/edit/main/README.md) • 
 [Problem Statement](https://github.com/Thilagavijayan/Data_Dredge/edit/main/README.md) • 
 [Installation](https://github.com/Thilagavijayan/Data_Dredge/edit/main/README.md) • [Screenshots](https://github.com/Thilagavijayan/Data_Dredge/edit/main/README.md) •
+[Demo](https://github.com/Thilagavijayan/Data_Dredge/edit/main/README.md) • 
+[Presentation](https://github.com/Thilagavijayan/Data_Dredge/edit/main/README.md) • 
 [Report a bug](https://github.com/)
 </div>
 
